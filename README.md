@@ -70,6 +70,7 @@ I try to stay optimistic and focus on continuous improvement — learning a litt
 <h4 align="center">Tools, Ecosystem & Testing</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Pest-18181B?style=for-the-badge&logo=pest&logoColor=FF2D20" alt="Pest PHP"/>
   <img src="https://img.shields.io/badge/Laravel_Horizon-131B23?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Horizon"/>
   <img src="https://img.shields.io/badge/Laravel_Telescope-131B23?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Telescope"/>
   <img src="https://img.shields.io/badge/Laravel_Scribe-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Scribe"/>
