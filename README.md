@@ -1,5 +1,5 @@
-<div align="center" style="margin-bottom=10px">
-  <img height="400" width="500" src="./assets/cover.gif" loop="infinite"/>
+<div align="center" style="margin-bottom:10px">
+  <img height="400" width="600" src="./assets/cover.gif" loop="infinite"/>
 </div>
 
 <p align="center"><b>📑 Contents:</b>
